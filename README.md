@@ -2,7 +2,7 @@
 
 <h1><img src="" width="40" height="40"> Technologies & Tools</h1>
 
-![](https://simpleicons.org/?q=Csgarp)
+![](https://simpleicons.org/icons/csharp.svg)
 
 <h1><img src="octocats/mona-loading.gif" width="40" height="40"> GitHub Stats</h1>
 
