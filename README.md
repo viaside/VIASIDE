@@ -3,5 +3,5 @@
 <h1><img src="" width="40" height="40"> Technologies & Tools</h1>
 
 <div style="display: inline_block"><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30" height="30"></img>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30" height="30" align="center"></img>
 </div
