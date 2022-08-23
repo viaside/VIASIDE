@@ -1,4 +1,4 @@
-<h1><img src="" width="40" height="40"> Hi there!</h1> 
+<h1><img src="minecraft-blue.gif" width="40" height="40"> Hi there!</h1> 
 
 <h1><img src="af003bb408f471940a675b47a2393322.gif" width="40" height="40"> Technologies & Tools</h1>
 
