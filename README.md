@@ -1,4 +1,5 @@
-### Hi there 👋
+### ![GorbaZaGIF](https://user-images.githubusercontent.com/63305188/186165026-f2deaf50-b457-44ec-9947-b445a37ab271.gif)
+Hi there 👋
 
 <!--
 **viaside/VIASIDE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
