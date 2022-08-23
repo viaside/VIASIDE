@@ -1,8 +1,8 @@
 <h1><img src="" width="40" height="40"> Hi there!</h1> 
 
-<h1><img src="" width="40" height="40"> Technologies & Tools</h1>
+<h1><img src="https://simpleicons.org/icons/csharp.svg" width="40" height="40"> Technologies & Tools</h1>
 
-<img src="https://simpleicons.org/icons/csharp.svg" width="40" height="40">
+![](https://img.shields.io/badge/-C%23-blueviolet)
 
 <h1><img src="octocats/mona-loading.gif" width="40" height="40"> GitHub Stats</h1>
 
