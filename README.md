@@ -1,4 +1,4 @@
-<h1><img src="ghsot.gif" width="40" height="40"> Hi there!</h1> 
+<h1><img src="e440cffdb0e79f162712a947906e2174.gif" width="40" height="40"> Hi there!</h1> 
 
 <h1><img src="batfly.gif" width="40" height="40"> Technologies & Tools</h1>
 <div> 
