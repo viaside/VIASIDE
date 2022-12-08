@@ -1,6 +1,6 @@
-<h1><img src="minecraft-blue.gif" width="40" height="40"> Hi there!</h1> 
+<h1><img src="swordpepedance.gif" width="40" height="40"> Hi there!</h1> 
 
-<h1><img src="minecraft-enchanted-book.gif" width="40" height="40"> Technologies & Tools</h1>
+<h1><img src="pepejump.gif" width="40" height="40"> Technologies & Tools</h1>
 <div> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30"></img>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30"></img>
