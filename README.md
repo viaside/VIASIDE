@@ -1,5 +1,5 @@
 <h1><img src="batfly.gif" width="40" height="40">Hi there!</h1>
-<p>Beginner programmer, originally studied the .Net platform, but now switched to Frontend/React</p>
+<p>Programmer, originally studied the .Net platform, but now switched to Frontend/React</p>
 <h1><img src="ghsot.gif" width="40" height="40">Technologies & Tools</h1> 
 <div> 
   <h3>Frontend</h3>
